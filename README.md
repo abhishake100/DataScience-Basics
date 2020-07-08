@@ -1,6 +1,8 @@
 # DataScience-Basics
 Basic Python and Libraries - NumPy, Pandas, Matplotib and Seaborn
 
-Python - https://github.com/abhishake100/DataScience-Basics/blob/master/Python-Basics.ipynb
+Python - https://github.com/abhishake100/DataScience-Basics/tree/master/Python-basics
 
-NumPy - https://github.com/abhishake100/DataScience-Basics/blob/master/NumPy.ipynb
+NumPy - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
+
+Pandas - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
