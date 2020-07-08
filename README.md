@@ -6,3 +6,7 @@ Python - https://github.com/abhishake100/DataScience-Basics/tree/master/Python-b
 NumPy - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
 
 Pandas - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
+
+Matplotlib - 
+
+Seaborn - 
