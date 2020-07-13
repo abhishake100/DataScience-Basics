@@ -7,6 +7,6 @@ NumPy - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
 
 Pandas - https://github.com/abhishake100/DataScience-Basics/tree/master/NumPy
 
-Matplotlib - 
+Matplotlib - https://github.com/abhishake100/DataScience-Basics/tree/master/Matplotlib
 
 Seaborn - 
