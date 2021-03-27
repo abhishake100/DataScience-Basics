@@ -1,5 +1,5 @@
 # DataScience-Basics
-Basic Python and Libraries - NumPy, Pandas, Matplotib and Seaborn
+Basic Python and Libraries - NumPy, Pandas and Matplotib
 
 Python - https://github.com/abhishake100/DataScience-Basics/tree/master/Python-basics
 
